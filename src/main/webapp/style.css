@@ -1,0 +1,74 @@
+body{
+    background-color: navy;
+    color: white;
+    text-align:center;
+    margin: 10em 0 1em 0;
+}
+
+input[type=text] {
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    background-color:#FFF;
+    margin: 1em 0 1.1em 0;
+    height: 55px;
+    width:40%;
+    font-size: 20pt;
+    padding: 5px;
+    outline:0;
+}
+
+h1{
+    margin: 0 0 0 0;
+    font-size: 30pt;
+}
+
+b{
+    margin: 0 0 1em 0;
+    font-size: 30pt;
+}
+
+button {
+
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: navy;
+    background-color: #FFF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:active {
+    background-color: #FFFF00;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#join{
+    margin: 1em 0 1em 0;
+    width: 40%;
+}
+
+#create{
+    margin: 1em 0 1em 0;
+    width: 40%;
+}
+
+#createH1{
+    font-size: 18pt;
+}
+
+#sh1{
+    margin: 0 0 0 0;
+}
+
+#sh2{
+
+    margin: 0 0 1em 0;
+}

@@ -1,0 +1,13 @@
+package model;
+
+public enum MessageType {
+    USERNAME_CHECK,
+    CHAT_ROOM_NAME_CREATE,
+    CHAT_ROOM_NAME_JOIN,
+    JOIN_THE_ROOM,
+    JOIN_WITH_STORY,
+    GENERAL,
+    USER_DISCONNECT,
+    USER_DISCONNECT_CANCELLATION,
+    QUIT
+}
