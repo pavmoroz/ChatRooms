@@ -9,4 +9,4 @@ While you actually chatting with others in your room you can send messages, leav
 In addition to ordinary messages, you can see join/leave statements when someone
 else join or leaves respectively and newcomers can see a chat story (last 20 messages).
 	 
-Used technologies: Java EE, Maven, GlassFish, JSP, JavaScript, CSS
+Used technologies: Java EE, Maven, GlassFish, JSP, JavaScript, CSS  
